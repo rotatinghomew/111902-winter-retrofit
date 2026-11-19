@@ -1,0 +1,128 @@
+{
+  "meter_map": {
+    "meter": [
+      "str"
+    ],
+    "parent": [
+      "NoneType",
+      "str"
+    ],
+    "purpose": [
+      "str"
+    ],
+    "active_from": [
+      "str"
+    ],
+    "active_until": [
+      "str"
+    ]
+  },
+  "weather": {
+    "date": [
+      "str"
+    ],
+    "degree_days": [
+      "int"
+    ],
+    "split": [
+      "str"
+    ]
+  },
+  "activity": {
+    "date": [
+      "str"
+    ],
+    "activity_hours": [
+      "int"
+    ],
+    "nursery_hours": [
+      "int"
+    ],
+    "activity_min_c": [
+      "NoneType",
+      "int"
+    ],
+    "nursery_min_c": [
+      "int"
+    ]
+  },
+  "readings": {
+    "date": [
+      "str"
+    ],
+    "meter": [
+      "str"
+    ],
+    "reading": [
+      "int"
+    ],
+    "state": [
+      "str"
+    ]
+  },
+  "maintenance": {
+    "meter": [
+      "str"
+    ],
+    "from": [
+      "str"
+    ],
+    "until": [
+      "str"
+    ],
+    "action": [
+      "str"
+    ],
+    "factor": [
+      "NoneType",
+      "float"
+    ],
+    "recorded": [
+      "str"
+    ]
+  },
+  "protocol": {
+    "contract": [
+      "str"
+    ],
+    "purpose": [
+      "str"
+    ],
+    "effective": [
+      "str"
+    ],
+    "degree_days_range": [
+      "list"
+    ],
+    "hours_range": [
+      "list"
+    ],
+    "min_saving": [
+      "int"
+    ],
+    "min_temp": [
+      "int"
+    ],
+    "min_coverage": [
+      "float"
+    ]
+  },
+  "signoffs": {
+    "contract": [
+      "str"
+    ],
+    "period": [
+      "str"
+    ],
+    "signed_at": [
+      "NoneType",
+      "str"
+    ],
+    "basis_date": [
+      "str"
+    ],
+    "status": [
+      "str"
+    ]
+  }
+}

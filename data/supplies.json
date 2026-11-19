@@ -1,0 +1,264 @@
+{
+  "synthetic": true,
+  "tables": {
+    "meter_map": [
+      {
+        "meter": "M0",
+        "parent": null,
+        "purpose": "共享总表",
+        "active_from": "2026-01-01",
+        "active_until": "2026-12-31"
+      },
+      {
+        "meter": "M1",
+        "parent": "M0",
+        "purpose": "活动室",
+        "active_from": "2026-01-01",
+        "active_until": "2026-12-31"
+      },
+      {
+        "meter": "M2",
+        "parent": "M0",
+        "purpose": "托育点",
+        "active_from": "2026-01-01",
+        "active_until": "2026-12-31"
+      }
+    ],
+    "weather": [
+      {
+        "date": "2026-01-10",
+        "degree_days": 22,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-11",
+        "degree_days": 26,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-12",
+        "degree_days": 28,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-13",
+        "degree_days": 24,
+        "split": "留出"
+      },
+      {
+        "date": "2026-11-10",
+        "degree_days": 25,
+        "split": "改造后"
+      },
+      {
+        "date": "2026-11-11",
+        "degree_days": 29,
+        "split": "改造后"
+      },
+      {
+        "date": "2026-11-12",
+        "degree_days": 40,
+        "split": "改造后"
+      }
+    ],
+    "activity": [
+      {
+        "date": "2026-01-10",
+        "activity_hours": 6,
+        "nursery_hours": 9,
+        "activity_min_c": 20,
+        "nursery_min_c": 21
+      },
+      {
+        "date": "2026-01-11",
+        "activity_hours": 8,
+        "nursery_hours": 9,
+        "activity_min_c": 20,
+        "nursery_min_c": 20
+      },
+      {
+        "date": "2026-01-12",
+        "activity_hours": 8,
+        "nursery_hours": 7,
+        "activity_min_c": 19,
+        "nursery_min_c": 21
+      },
+      {
+        "date": "2026-01-13",
+        "activity_hours": 7,
+        "nursery_hours": 8,
+        "activity_min_c": 20,
+        "nursery_min_c": 21
+      },
+      {
+        "date": "2026-11-10",
+        "activity_hours": 7,
+        "nursery_hours": 8,
+        "activity_min_c": 20,
+        "nursery_min_c": 21
+      },
+      {
+        "date": "2026-11-11",
+        "activity_hours": 0,
+        "nursery_hours": 8,
+        "activity_min_c": null,
+        "nursery_min_c": 21
+      },
+      {
+        "date": "2026-11-12",
+        "activity_hours": 8,
+        "nursery_hours": 8,
+        "activity_min_c": 17,
+        "nursery_min_c": 18
+      }
+    ],
+    "readings": [
+      {
+        "date": "2026-01-10",
+        "meter": "M0",
+        "reading": 480,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-10",
+        "meter": "M1",
+        "reading": 190,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-11",
+        "meter": "M0",
+        "reading": 560,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-11",
+        "meter": "M2",
+        "reading": 310,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-12",
+        "meter": "M0",
+        "reading": 570,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-12",
+        "meter": "M1",
+        "reading": 280,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-13",
+        "meter": "M0",
+        "reading": 510,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-13",
+        "meter": "M2",
+        "reading": 275,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-10",
+        "meter": "M0",
+        "reading": 440,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-10",
+        "meter": "M1",
+        "reading": 185,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-11",
+        "meter": "M0",
+        "reading": 327,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-11",
+        "meter": "M2",
+        "reading": 240,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-12",
+        "meter": "M0",
+        "reading": 760,
+        "state": "有效"
+      }
+    ],
+    "maintenance": [
+      {
+        "meter": "M0",
+        "from": "2026-11-10",
+        "until": "2026-11-10",
+        "action": "换算",
+        "factor": 1.09,
+        "recorded": "2026-11-15"
+      },
+      {
+        "meter": "M0",
+        "from": "2026-11-11",
+        "until": "2026-11-11",
+        "action": "撤销",
+        "factor": null,
+        "recorded": "2026-11-15"
+      }
+    ],
+    "protocol": [
+      {
+        "contract": "X1",
+        "purpose": "活动室",
+        "effective": "2026-11-01",
+        "degree_days_range": [
+          22,
+          30
+        ],
+        "hours_range": [
+          6,
+          9
+        ],
+        "min_saving": 25,
+        "min_temp": 19,
+        "min_coverage": 0.66
+      },
+      {
+        "contract": "X2",
+        "purpose": "托育点",
+        "effective": "2026-11-01",
+        "degree_days_range": [
+          22,
+          30
+        ],
+        "hours_range": [
+          7,
+          9
+        ],
+        "min_saving": 32,
+        "min_temp": 20,
+        "min_coverage": 0.66
+      }
+    ],
+    "signoffs": [
+      {
+        "contract": "X1",
+        "period": "2026-11",
+        "signed_at": null,
+        "basis_date": "2026-11-13",
+        "status": "待审"
+      },
+      {
+        "contract": "X2",
+        "period": "2026-11",
+        "signed_at": "2026-11-14",
+        "basis_date": "2026-11-13",
+        "status": "已确认"
+      }
+    ]
+  }
+}
