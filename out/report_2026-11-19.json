@@ -1,0 +1,1527 @@
+{
+  "query_date": "2026-11-19",
+  "last_daily": "2026-11-18",
+  "baselines": {
+    "活动室": {
+      "meter": "M1",
+      "coef": [
+        2.1824,
+        5.2547,
+        11.6643
+      ],
+      "fit_n": 35,
+      "fit_days": [
+        "2026-01-10",
+        "2026-01-12",
+        "2026-01-14",
+        "2026-01-15",
+        "2026-01-16",
+        "2026-01-19",
+        "2026-01-20",
+        "2026-01-21",
+        "2026-01-22",
+        "2026-01-23",
+        "2026-01-24",
+        "2026-01-27",
+        "2026-01-28",
+        "2026-01-29",
+        "2026-01-30",
+        "2026-01-31",
+        "2026-02-01",
+        "2026-02-04",
+        "2026-02-05",
+        "2026-02-06",
+        "2026-02-07",
+        "2026-02-08",
+        "2026-02-09",
+        "2026-02-12",
+        "2026-02-13",
+        "2026-02-14",
+        "2026-02-15",
+        "2026-02-16",
+        "2026-02-17",
+        "2026-02-20",
+        "2026-11-01",
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-06",
+        "2026-11-07"
+      ],
+      "holdout_mae": 3.192,
+      "holdout": [
+        {
+          "date": "2026-01-13",
+          "actual": null,
+          "pred": null,
+          "err": null
+        },
+        {
+          "date": "2026-02-21",
+          "actual": 172.0,
+          "pred": 177.263,
+          "err": 5.263
+        },
+        {
+          "date": "2026-02-22",
+          "actual": 256.0,
+          "pred": 263.648,
+          "err": 7.648
+        },
+        {
+          "date": "2026-02-23",
+          "actual": 218.0,
+          "pred": 219.301,
+          "err": 1.301
+        },
+        {
+          "date": "2026-02-24",
+          "actual": null,
+          "pred": null,
+          "err": null
+        },
+        {
+          "date": "2026-02-25",
+          "actual": null,
+          "pred": null,
+          "err": null
+        },
+        {
+          "date": "2026-02-26",
+          "actual": 217.0,
+          "pred": 221.61,
+          "err": 4.61
+        },
+        {
+          "date": "2026-02-27",
+          "actual": 221.0,
+          "pred": 219.301,
+          "err": 1.699
+        },
+        {
+          "date": "2026-02-28",
+          "actual": 207.0,
+          "pred": 208.791,
+          "err": 1.791
+        },
+        {
+          "date": "2026-03-01",
+          "actual": 267.0,
+          "pred": 264.803,
+          "err": 2.197
+        },
+        {
+          "date": "2026-03-02",
+          "actual": 192.0,
+          "pred": 193.027,
+          "err": 1.027
+        }
+      ],
+      "support_dd": [
+        20,
+        32
+      ]
+    },
+    "托育点": {
+      "meter": "M2",
+      "coef": [
+        30.4676,
+        6.0351,
+        11.1703
+      ],
+      "fit_n": 28,
+      "fit_days": [
+        "2026-01-11",
+        "2026-01-14",
+        "2026-01-15",
+        "2026-01-18",
+        "2026-01-19",
+        "2026-01-20",
+        "2026-01-21",
+        "2026-01-22",
+        "2026-01-25",
+        "2026-01-26",
+        "2026-01-27",
+        "2026-01-28",
+        "2026-01-29",
+        "2026-02-01",
+        "2026-02-02",
+        "2026-02-03",
+        "2026-02-04",
+        "2026-02-05",
+        "2026-02-08",
+        "2026-02-09",
+        "2026-02-10",
+        "2026-02-11",
+        "2026-02-12",
+        "2026-02-15",
+        "2026-02-16",
+        "2026-02-17",
+        "2026-02-18",
+        "2026-02-19"
+      ],
+      "holdout_mae": 8.073,
+      "holdout": [
+        {
+          "date": "2026-01-13",
+          "actual": 275.0,
+          "pred": 264.673,
+          "err": 10.327
+        },
+        {
+          "date": "2026-02-21",
+          "actual": 243.0,
+          "pred": 251.703,
+          "err": 8.703
+        },
+        {
+          "date": "2026-02-22",
+          "actual": 324.0,
+          "pred": 324.125,
+          "err": 0.125
+        },
+        {
+          "date": "2026-02-23",
+          "actual": null,
+          "pred": null,
+          "err": null
+        },
+        {
+          "date": "2026-02-24",
+          "actual": null,
+          "pred": null,
+          "err": null
+        },
+        {
+          "date": "2026-02-25",
+          "actual": 322.0,
+          "pred": 312.054,
+          "err": 9.946
+        },
+        {
+          "date": "2026-02-26",
+          "actual": 275.0,
+          "pred": 264.673,
+          "err": 10.327
+        },
+        {
+          "date": "2026-02-27",
+          "actual": 296.0,
+          "pred": 288.814,
+          "err": 7.186
+        },
+        {
+          "date": "2026-02-28",
+          "actual": 286.0,
+          "pred": 276.744,
+          "err": 9.256
+        },
+        {
+          "date": "2026-03-01",
+          "actual": 281.0,
+          "pred": 289.714,
+          "err": 8.714
+        },
+        {
+          "date": "2026-03-02",
+          "actual": null,
+          "pred": null,
+          "err": null
+        }
+      ],
+      "support_dd": [
+        20,
+        32
+      ]
+    },
+    "总表": {
+      "meter": "M0",
+      "coef": [
+        98.9988,
+        10.6979,
+        11.4669,
+        7.7495
+      ],
+      "fit_n": 41,
+      "fit_days": [
+        "2026-01-10",
+        "2026-01-11",
+        "2026-01-12",
+        "2026-01-14",
+        "2026-01-15",
+        "2026-01-16",
+        "2026-01-17",
+        "2026-01-18",
+        "2026-01-19",
+        "2026-01-20",
+        "2026-01-21",
+        "2026-01-22",
+        "2026-01-23",
+        "2026-01-24",
+        "2026-01-25",
+        "2026-01-26",
+        "2026-01-27",
+        "2026-01-28",
+        "2026-01-29",
+        "2026-01-30",
+        "2026-01-31",
+        "2026-02-01",
+        "2026-02-02",
+        "2026-02-03",
+        "2026-02-04",
+        "2026-02-05",
+        "2026-02-06",
+        "2026-02-07",
+        "2026-02-08",
+        "2026-02-09",
+        "2026-02-10",
+        "2026-02-11",
+        "2026-02-12",
+        "2026-02-13",
+        "2026-02-14",
+        "2026-02-15",
+        "2026-02-16",
+        "2026-02-17",
+        "2026-02-18",
+        "2026-02-19",
+        "2026-02-20"
+      ],
+      "holdout_mae": 10.062,
+      "holdout": [
+        {
+          "date": "2026-01-13",
+          "actual": 510.0,
+          "pred": 498.013,
+          "err": 11.987
+        },
+        {
+          "date": "2026-02-21",
+          "actual": 440.0,
+          "pred": 451.504,
+          "err": 11.504
+        },
+        {
+          "date": "2026-02-22",
+          "actual": 608.0,
+          "pred": 602.813,
+          "err": 5.187
+        },
+        {
+          "date": "2026-02-23",
+          "actual": 507.0,
+          "pred": 521.588,
+          "err": 14.588
+        },
+        {
+          "date": "2026-02-24",
+          "actual": 555.0,
+          "pred": 549.323,
+          "err": 5.677
+        },
+        {
+          "date": "2026-02-25",
+          "actual": 569.0,
+          "pred": 558.483,
+          "err": 10.517
+        },
+        {
+          "date": "2026-02-26",
+          "actual": 521.0,
+          "pred": 509.48,
+          "err": 11.52
+        },
+        {
+          "date": "2026-02-27",
+          "actual": 544.0,
+          "pred": 529.338,
+          "err": 14.662
+        },
+        {
+          "date": "2026-02-28",
+          "actual": 518.0,
+          "pred": 507.942,
+          "err": 10.058
+        },
+        {
+          "date": "2026-03-01",
+          "actual": 569.0,
+          "pred": 577.385,
+          "err": 8.385
+        },
+        {
+          "date": "2026-03-02",
+          "actual": 477.0,
+          "pred": 483.598,
+          "err": 6.598
+        }
+      ],
+      "support_dd": [
+        20,
+        32
+      ]
+    }
+  },
+  "contracts": [
+    {
+      "contract": "X1",
+      "purpose": "活动室",
+      "coverage": 0.8571428571428571,
+      "coverage_ok": true,
+      "denominator": [
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-13",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-18"
+      ],
+      "numerator": [
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-13",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-18"
+      ],
+      "saving_total_kwh": 182.258,
+      "saving_ok": true,
+      "holdout_ok": true,
+      "claim_days": {
+        "2026-11-10": 30.201,
+        "2026-11-13": 45.536,
+        "2026-11-15": 41.301,
+        "2026-11-16": 39.691,
+        "2026-11-18": 25.529
+      },
+      "comfort_gaps": [
+        {
+          "date": "2026-11-08",
+          "state": "开放",
+          "temp": null
+        },
+        {
+          "date": "2026-11-09",
+          "state": "开放",
+          "temp": null
+        },
+        {
+          "date": "2026-11-11",
+          "state": "临时停用",
+          "temp": null
+        },
+        {
+          "date": "2026-11-12",
+          "state": "开放",
+          "temp": 17
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-11-08",
+          "state": "开放",
+          "sched": 7,
+          "obs": 7,
+          "dd": 31,
+          "meter": 200.0,
+          "meter_status": "有效",
+          "temp": null,
+          "denom": false,
+          "numerator": false,
+          "temp_ok": false,
+          "pred": null,
+          "saving": null,
+          "claimable": false,
+          "gaps": [
+            "度日出约定范围",
+            "室温缺测"
+          ]
+        },
+        {
+          "date": "2026-11-09",
+          "state": "开放",
+          "sched": 9,
+          "obs": 9,
+          "dd": 27,
+          "meter": 209.0,
+          "meter_status": "有效",
+          "temp": null,
+          "denom": true,
+          "numerator": true,
+          "temp_ok": false,
+          "pred": 249.039,
+          "saving": 40.039,
+          "claimable": false,
+          "gaps": [
+            "室温缺测"
+          ]
+        },
+        {
+          "date": "2026-11-10",
+          "state": "开放",
+          "sched": 7,
+          "obs": 7,
+          "dd": 25,
+          "meter": 185.0,
+          "meter_status": "有效",
+          "temp": 20,
+          "denom": true,
+          "numerator": true,
+          "temp_ok": true,
+          "pred": 215.201,
+          "saving": 30.201,
+          "claimable": true,
+          "gaps": []
+        },
+        {
+          "date": "2026-11-11",
+          "state": "临时停用",
+          "sched": 6,
+          "obs": 0,
+          "dd": 29,
+          "meter": null,
+          "meter_status": "缺测",
+          "temp": null,
+          "denom": true,
+          "numerator": false,
+          "temp_ok": false,
+          "pred": null,
+          "saving": null,
+          "claimable": false,
+          "gaps": [
+            "临时停用",
+            "分表缺测",
+            "室温缺测"
+          ]
+        },
+        {
+          "date": "2026-11-12",
+          "state": "开放",
+          "sched": 8,
+          "obs": 8,
+          "dd": 40,
+          "meter": null,
+          "meter_status": "缺测",
+          "temp": 17,
+          "denom": false,
+          "numerator": false,
+          "temp_ok": false,
+          "pred": null,
+          "saving": null,
+          "claimable": false,
+          "gaps": [
+            "度日出约定范围",
+            "分表缺测",
+            "室温低于承诺"
+          ]
+        },
+        {
+          "date": "2026-11-13",
+          "state": "开放",
+          "sched": 6,
+          "obs": 6,
+          "dd": 25,
+          "meter": 158.0,
+          "meter_status": "有效",
+          "temp": 20,
+          "denom": true,
+          "numerator": true,
+          "temp_ok": true,
+          "pred": 203.536,
+          "saving": 45.536,
+          "claimable": true,
+          "gaps": []
+        },
+        {
+          "date": "2026-11-14",
+          "state": "开放",
+          "sched": 7,
+          "obs": 7,
+          "dd": 32,
+          "meter": 214.0,
+          "meter_status": "有效",
+          "temp": 20,
+          "denom": false,
+          "numerator": false,
+          "temp_ok": true,
+          "pred": null,
+          "saving": null,
+          "claimable": false,
+          "gaps": [
+            "度日出约定范围"
+          ]
+        },
+        {
+          "date": "2026-11-15",
+          "state": "开放",
+          "sched": 6,
+          "obs": 6,
+          "dd": 28,
+          "meter": 178.0,
+          "meter_status": "有效",
+          "temp": 21,
+          "denom": true,
+          "numerator": true,
+          "temp_ok": true,
+          "pred": 219.301,
+          "saving": 41.301,
+          "claimable": true,
+          "gaps": []
+        },
+        {
+          "date": "2026-11-16",
+          "state": "开放",
+          "sched": 7,
+          "obs": 7,
+          "dd": 23,
+          "meter": 165.0,
+          "meter_status": "有效",
+          "temp": 21,
+          "denom": true,
+          "numerator": true,
+          "temp_ok": true,
+          "pred": 204.691,
+          "saving": 39.691,
+          "claimable": true,
+          "gaps": []
+        },
+        {
+          "date": "2026-11-17",
+          "state": "计划停用",
+          "sched": 0,
+          "obs": 0,
+          "dd": 30,
+          "meter": 168.0,
+          "meter_status": "有效",
+          "temp": null,
+          "denom": false,
+          "numerator": false,
+          "temp_ok": false,
+          "pred": null,
+          "saving": null,
+          "claimable": false,
+          "gaps": [
+            "计划停用"
+          ]
+        },
+        {
+          "date": "2026-11-18",
+          "state": "开放",
+          "sched": 9,
+          "obs": 9,
+          "dd": 25,
+          "meter": 213.0,
+          "meter_status": "有效",
+          "temp": 19,
+          "denom": true,
+          "numerator": true,
+          "temp_ok": true,
+          "pred": 238.529,
+          "saving": 25.529,
+          "claimable": true,
+          "gaps": []
+        }
+      ]
+    },
+    {
+      "contract": "X2",
+      "purpose": "托育点",
+      "coverage": 0.6666666666666666,
+      "coverage_ok": true,
+      "denominator": [
+        "2026-11-02",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-13",
+        "2026-11-15",
+        "2026-11-16",
+        "2026-11-17",
+        "2026-11-18"
+      ],
+      "numerator": [
+        "2026-11-02",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-09",
+        "2026-11-11",
+        "2026-11-13",
+        "2026-11-15",
+        "2026-11-16"
+      ],
+      "saving_total_kwh": 207.694,
+      "saving_ok": true,
+      "holdout_ok": true,
+      "claim_days": {
+        "2026-11-06": 35.884,
+        "2026-11-09": 29.608,
+        "2026-11-11": 54.849,
+        "2026-11-13": 41.708,
+        "2026-11-15": 45.644
+      },
+      "comfort_gaps": [
+        {
+          "date": "2026-11-02",
+          "state": "开放",
+          "temp": 19
+        },
+        {
+          "date": "2026-11-04",
+          "state": "开放",
+          "temp": 19
+        },
+        {
+          "date": "2026-11-05",
+          "state": "开放",
+          "temp": null
+        },
+        {
+          "date": "2026-11-12",
+          "state": "开放",
+          "temp": 18
+        },
+        {
+          "date": "2026-11-16",
+          "state": "开放",
+          "temp": null
+        },
+        {
+          "date": "2026-11-18",
+          "state": "开放",
+          "temp": null
+        }
+      ],
+      "daily": [
+        {
+          "date": "2026-11-01",
+          "state": "开放",
+          "sched": 9,
+          "obs": 9,
+          "dd": 21,
+          "meter": 239.0,
+          "meter_status": "有效",
+          "temp": 20,
+          "denom": false,
+          "numerator": false,
+          "temp_ok": true,
+          "pred": null,
+          "saving": null,
+          "claimable": false,
+          "gaps": [
+            "度日出约定范围"
+          ]
+        },
+        {
+          "date": "2026-11-02",
+          "state": "开放",
+          "sched": 7,
+          "obs": 7,
+          "dd": 27,
+          "meter": 232.0,
+          "meter_status": "有效",
+          "temp": 19,
+          "denom": true,
+          "numerator": true,
+          "temp_ok": false,
+          "pred": 271.608,
+          "saving": 39.608,
+          "claimable": false,
+          "gaps": [
+            "室温低于承诺"
+          ]
+        },
+        {
+          "date": "2026-11-03",
+          "state": "开放",
+          "sched": 8,
+          "obs": 8,
+          "dd": 21,
+          "meter": null,
+          "meter_status": "缺测",
+          "temp": 22,
+          "denom": false,
+          "numerator": false,
+          "temp_ok": true,
+          "pred": null,
+          "saving": null,
+          "claimable": false,
+          "gaps": [
+            "度日出约定范围",
+            "分表缺测"
+          ]
+        },
+        {
+          "date": "2026-11-04",
+          "state": "开放",
+          "sched": 7,
+          "obs": 7,
+          "dd": 28,
+          "meter": null,
+          "meter_status": "缺测",
+          "temp": 19,
+          "denom": true,
+          "numerator": false,
+          "temp_ok": false,
+          "pred": 277.644,
+          "saving": null,
+          "claimable": false,
+          "gaps": [
+            "分表缺测",
+            "室温低于承诺"
+          ]
+        },
+        {
+          "date": "2026-11-05",
+          "state": "开放",
+          "sched": 8,
+          "obs": 8,
+          "dd": 24,
+          "meter": 224.0,
+          "meter_status": "有效",
+          "temp": null,
+          "denom": true,
+          "numerator": true,
+          "temp_ok": false,
+          "pred": 264.673,
+          "saving": 40.673,
+          "claimable": false,
+          "gaps": [
+            "室温缺测"
+          ]
+        },
+        {
+          "date": "2026-11-06",
+          "state": "开放",
+          "sched": 8,
+          "obs": 8,
+          "dd": 30,
+          "meter": 265.0,
+          "meter_status": "有效",
+          "temp": 20,
+          "denom": true,
+          "numerator": true,
+          "temp_ok": true,
+          "pred": 300.884,
+          "saving": 35.884,
+          "claimable": true,
+          "gaps": []
+        },
+        {
+          "date": "2026-11-07",
+          "state": "开放",
+          "sched": 9,
+          "obs": 9,
+          "dd": 32,
+          "meter": 311.0,
+          "meter_status": "有效",
+          "temp": 22,
+          "denom": false,
+          "numerator": false,
+          "temp_ok": true,
+          "pred": null,
+          "saving": null,
+          "claimable": false,
+          "gaps": [
+            "度日出约定范围"
+          ]
+        },
+        {
+          "date": "2026-11-08",
+          "state": "开放",
+          "sched": 8,
+          "obs": 8,
+          "dd": 31,
+          "meter": 283.0,
+          "meter_status": "有效",
+          "temp": 22,
+          "denom": false,
+          "numerator": false,
+          "temp_ok": true,
+          "pred": null,
+          "saving": null,
+          "claimable": false,
+          "gaps": [
+            "度日出约定范围"
+          ]
+        },
+        {
+          "date": "2026-11-09",
+          "state": "开放",
+          "sched": 7,
+          "obs": 7,
+          "dd": 27,
+          "meter": 242.0,
+          "meter_status": "有效",
+          "temp": 22,
+          "denom": true,
+          "numerator": true,
+          "temp_ok": true,
+          "pred": 271.608,
+          "saving": 29.608,
+          "claimable": true,
+          "gaps": []
+        },
+        {
+          "date": "2026-11-10",
+          "state": "开放",
+          "sched": 8,
+          "obs": 8,
+          "dd": 25,
+          "meter": null,
+          "meter_status": "缺测",
+          "temp": 21,
+          "denom": true,
+          "numerator": false,
+          "temp_ok": true,
+          "pred": 270.708,
+          "saving": null,
+          "claimable": false,
+          "gaps": [
+            "分表缺测"
+          ]
+        },
+        {
+          "date": "2026-11-11",
+          "state": "开放",
+          "sched": 8,
+          "obs": 8,
+          "dd": 29,
+          "meter": 240.0,
+          "meter_status": "有效",
+          "temp": 21,
+          "denom": true,
+          "numerator": true,
+          "temp_ok": true,
+          "pred": 294.849,
+          "saving": 54.849,
+          "claimable": true,
+          "gaps": []
+        },
+        {
+          "date": "2026-11-12",
+          "state": "开放",
+          "sched": 8,
+          "obs": 8,
+          "dd": 40,
+          "meter": null,
+          "meter_status": "缺测",
+          "temp": 18,
+          "denom": false,
+          "numerator": false,
+          "temp_ok": false,
+          "pred": null,
+          "saving": null,
+          "claimable": false,
+          "gaps": [
+            "度日出约定范围",
+            "分表缺测",
+            "室温低于承诺"
+          ]
+        },
+        {
+          "date": "2026-11-13",
+          "state": "开放",
+          "sched": 8,
+          "obs": 8,
+          "dd": 25,
+          "meter": 229.0,
+          "meter_status": "有效",
+          "temp": 20,
+          "denom": true,
+          "numerator": true,
+          "temp_ok": true,
+          "pred": 270.708,
+          "saving": 41.708,
+          "claimable": true,
+          "gaps": []
+        },
+        {
+          "date": "2026-11-14",
+          "state": "开放",
+          "sched": 7,
+          "obs": 7,
+          "dd": 32,
+          "meter": 267.0,
+          "meter_status": "有效",
+          "temp": 22,
+          "denom": false,
+          "numerator": false,
+          "temp_ok": true,
+          "pred": null,
+          "saving": null,
+          "claimable": false,
+          "gaps": [
+            "度日出约定范围"
+          ]
+        },
+        {
+          "date": "2026-11-15",
+          "state": "开放",
+          "sched": 7,
+          "obs": 7,
+          "dd": 28,
+          "meter": 232.0,
+          "meter_status": "有效",
+          "temp": 20,
+          "denom": true,
+          "numerator": true,
+          "temp_ok": true,
+          "pred": 277.644,
+          "saving": 45.644,
+          "claimable": true,
+          "gaps": []
+        },
+        {
+          "date": "2026-11-16",
+          "state": "开放",
+          "sched": 8,
+          "obs": 8,
+          "dd": 23,
+          "meter": 232.0,
+          "meter_status": "有效",
+          "temp": null,
+          "denom": true,
+          "numerator": true,
+          "temp_ok": false,
+          "pred": 258.638,
+          "saving": 26.638,
+          "claimable": false,
+          "gaps": [
+            "室温缺测"
+          ]
+        },
+        {
+          "date": "2026-11-17",
+          "state": "开放",
+          "sched": 7,
+          "obs": 7,
+          "dd": 30,
+          "meter": null,
+          "meter_status": "缺测",
+          "temp": 21,
+          "denom": true,
+          "numerator": false,
+          "temp_ok": true,
+          "pred": 289.714,
+          "saving": null,
+          "claimable": false,
+          "gaps": [
+            "分表缺测"
+          ]
+        },
+        {
+          "date": "2026-11-18",
+          "state": "开放",
+          "sched": 7,
+          "obs": 7,
+          "dd": 25,
+          "meter": null,
+          "meter_status": "缺测",
+          "temp": null,
+          "denom": true,
+          "numerator": false,
+          "temp_ok": false,
+          "pred": 259.538,
+          "saving": null,
+          "claimable": false,
+          "gaps": [
+            "分表缺测",
+            "室温缺测"
+          ]
+        }
+      ]
+    }
+  ],
+  "master_daily": [
+    {
+      "date": "2026-11-01",
+      "dd": 21,
+      "m0": 369.0,
+      "m0_status": "有效",
+      "m1": 111.0,
+      "m2": 239.0,
+      "pred": 393.4,
+      "saving": 24.4,
+      "supported": true,
+      "joint": "一致",
+      "unmetered": 19.0
+    },
+    {
+      "date": "2026-11-02",
+      "dd": 27,
+      "m0": 509.0,
+      "m0_status": "有效",
+      "m1": 251.0,
+      "m2": 232.0,
+      "pred": 545.291,
+      "saving": 36.291,
+      "supported": true,
+      "joint": "一致",
+      "unmetered": 26.0
+    },
+    {
+      "date": "2026-11-03",
+      "dd": 21,
+      "m0": 432.0,
+      "m0_status": "有效",
+      "m1": 200.0,
+      "m2": null,
+      "pred": 465.919,
+      "saving": 33.919,
+      "supported": true,
+      "joint": "分表缺测，联合核对不完整",
+      "unmetered": null
+    },
+    {
+      "date": "2026-11-04",
+      "dd": 28,
+      "m0": 479.0,
+      "m0_status": "有效",
+      "m1": null,
+      "m2": null,
+      "pred": 521.588,
+      "saving": 42.588,
+      "supported": true,
+      "joint": "分表缺测，联合核对不完整",
+      "unmetered": null
+    },
+    {
+      "date": "2026-11-05",
+      "dd": 24,
+      "m0": 446.0,
+      "m0_status": "有效",
+      "m1": null,
+      "m2": 224.0,
+      "pred": 498.013,
+      "saving": 52.013,
+      "supported": true,
+      "joint": "分表缺测，联合核对不完整",
+      "unmetered": null
+    },
+    {
+      "date": "2026-11-06",
+      "dd": 30,
+      "m0": 442.0,
+      "m0_status": "有效",
+      "m1": 153.0,
+      "m2": 265.0,
+      "pred": 481.932,
+      "saving": 39.932,
+      "supported": true,
+      "joint": "一致",
+      "unmetered": 24.0
+    },
+    {
+      "date": "2026-11-07",
+      "dd": 32,
+      "m0": 613.0,
+      "m0_status": "有效",
+      "m1": 274.0,
+      "m2": 311.0,
+      "pred": 614.28,
+      "saving": 1.28,
+      "supported": true,
+      "joint": "一致",
+      "unmetered": 28.0
+    },
+    {
+      "date": "2026-11-08",
+      "dd": 31,
+      "m0": 506.0,
+      "m0_status": "有效",
+      "m1": 200.0,
+      "m2": 283.0,
+      "pred": 572.899,
+      "saving": 66.899,
+      "supported": true,
+      "joint": "一致",
+      "unmetered": 23.0
+    },
+    {
+      "date": "2026-11-09",
+      "dd": 27,
+      "m0": 473.0,
+      "m0_status": "有效",
+      "m1": 209.0,
+      "m2": 242.0,
+      "pred": 545.291,
+      "saving": 72.291,
+      "supported": true,
+      "joint": "一致",
+      "unmetered": 22.0
+    },
+    {
+      "date": "2026-11-10",
+      "dd": 25,
+      "m0": 352.0,
+      "m0_status": "更正换算",
+      "m1": 185.0,
+      "m2": null,
+      "pred": 508.711,
+      "saving": 156.711,
+      "supported": true,
+      "joint": "分表缺测，联合核对不完整",
+      "unmetered": null
+    },
+    {
+      "date": "2026-11-11",
+      "dd": 29,
+      "m0": null,
+      "m0_status": "撤销无效",
+      "m1": null,
+      "m2": 240.0,
+      "pred": 471.234,
+      "saving": null,
+      "supported": true,
+      "joint": "总表不可用",
+      "unmetered": null
+    },
+    {
+      "date": "2026-11-12",
+      "dd": 40,
+      "m0": 760.0,
+      "m0_status": "有效",
+      "m1": null,
+      "m2": null,
+      "pred": null,
+      "saving": null,
+      "supported": false,
+      "joint": "分表缺测，联合核对不完整",
+      "unmetered": null
+    },
+    {
+      "date": "2026-11-13",
+      "dd": 25,
+      "m0": 407.0,
+      "m0_status": "有效",
+      "m1": 158.0,
+      "m2": 229.0,
+      "pred": 497.244,
+      "saving": 90.244,
+      "supported": true,
+      "joint": "一致",
+      "unmetered": 20.0
+    },
+    {
+      "date": "2026-11-14",
+      "dd": 32,
+      "m0": 511.0,
+      "m0_status": "有效",
+      "m1": 214.0,
+      "m2": 267.0,
+      "pred": 575.847,
+      "saving": 64.847,
+      "supported": true,
+      "joint": "一致",
+      "unmetered": 30.0
+    },
+    {
+      "date": "2026-11-15",
+      "dd": 28,
+      "m0": 438.0,
+      "m0_status": "有效",
+      "m1": 178.0,
+      "m2": 232.0,
+      "pred": 521.588,
+      "saving": 83.588,
+      "supported": true,
+      "joint": "一致",
+      "unmetered": 28.0
+    },
+    {
+      "date": "2026-11-16",
+      "dd": 23,
+      "m0": 420.0,
+      "m0_status": "有效",
+      "m1": 165.0,
+      "m2": 232.0,
+      "pred": 487.315,
+      "saving": 67.315,
+      "supported": true,
+      "joint": "一致",
+      "unmetered": 23.0
+    },
+    {
+      "date": "2026-11-17",
+      "dd": 30,
+      "m0": 455.0,
+      "m0_status": "有效",
+      "m1": 168.0,
+      "m2": null,
+      "pred": 474.183,
+      "saving": 19.183,
+      "supported": true,
+      "joint": "分表缺测，联合核对不完整",
+      "unmetered": null
+    },
+    {
+      "date": "2026-11-18",
+      "dd": 25,
+      "m0": 445.0,
+      "m0_status": "有效",
+      "m1": 213.0,
+      "m2": null,
+      "pred": 523.895,
+      "saving": 78.895,
+      "supported": true,
+      "joint": "分表缺测，联合核对不完整",
+      "unmetered": null
+    }
+  ],
+  "attribution": [
+    {
+      "date": "2026-11-01",
+      "claims": {},
+      "claim_total": 0,
+      "master_saving": 24.4,
+      "joint": "一致",
+      "status": "上限内",
+      "excess": null
+    },
+    {
+      "date": "2026-11-02",
+      "claims": {},
+      "claim_total": 0,
+      "master_saving": 36.291,
+      "joint": "一致",
+      "status": "上限内",
+      "excess": null
+    },
+    {
+      "date": "2026-11-03",
+      "claims": {},
+      "claim_total": 0,
+      "master_saving": 33.919,
+      "joint": "分表缺测，联合核对不完整",
+      "status": "联合核对不可用，分表独立证据",
+      "excess": null
+    },
+    {
+      "date": "2026-11-04",
+      "claims": {},
+      "claim_total": 0,
+      "master_saving": 42.588,
+      "joint": "分表缺测，联合核对不完整",
+      "status": "联合核对不可用，分表独立证据",
+      "excess": null
+    },
+    {
+      "date": "2026-11-05",
+      "claims": {},
+      "claim_total": 0,
+      "master_saving": 52.013,
+      "joint": "分表缺测，联合核对不完整",
+      "status": "联合核对不可用，分表独立证据",
+      "excess": null
+    },
+    {
+      "date": "2026-11-06",
+      "claims": {
+        "X2": 35.884
+      },
+      "claim_total": 35.884,
+      "master_saving": 39.932,
+      "joint": "一致",
+      "status": "上限内",
+      "excess": null
+    },
+    {
+      "date": "2026-11-07",
+      "claims": {},
+      "claim_total": 0,
+      "master_saving": 1.28,
+      "joint": "一致",
+      "status": "上限内",
+      "excess": null
+    },
+    {
+      "date": "2026-11-08",
+      "claims": {},
+      "claim_total": 0,
+      "master_saving": 66.899,
+      "joint": "一致",
+      "status": "上限内",
+      "excess": null
+    },
+    {
+      "date": "2026-11-09",
+      "claims": {
+        "X2": 29.608
+      },
+      "claim_total": 29.608,
+      "master_saving": 72.291,
+      "joint": "一致",
+      "status": "上限内",
+      "excess": null
+    },
+    {
+      "date": "2026-11-10",
+      "claims": {
+        "X1": 30.201
+      },
+      "claim_total": 30.201,
+      "master_saving": 156.711,
+      "joint": "分表缺测，联合核对不完整",
+      "status": "联合核对不可用，分表独立证据",
+      "excess": null
+    },
+    {
+      "date": "2026-11-11",
+      "claims": {
+        "X2": 54.849
+      },
+      "claim_total": 54.849,
+      "master_saving": null,
+      "joint": "总表不可用",
+      "status": "无总表节能口径",
+      "excess": null
+    },
+    {
+      "date": "2026-11-12",
+      "claims": {},
+      "claim_total": 0,
+      "master_saving": null,
+      "joint": "分表缺测，联合核对不完整",
+      "status": "无总表节能口径",
+      "excess": null
+    },
+    {
+      "date": "2026-11-13",
+      "claims": {
+        "X1": 45.536,
+        "X2": 41.708
+      },
+      "claim_total": 87.245,
+      "master_saving": 90.244,
+      "joint": "一致",
+      "status": "上限内",
+      "excess": null
+    },
+    {
+      "date": "2026-11-14",
+      "claims": {},
+      "claim_total": 0,
+      "master_saving": 64.847,
+      "joint": "一致",
+      "status": "上限内",
+      "excess": null
+    },
+    {
+      "date": "2026-11-15",
+      "claims": {
+        "X1": 41.301,
+        "X2": 45.644
+      },
+      "claim_total": 86.944,
+      "master_saving": 83.588,
+      "joint": "一致",
+      "status": "归属超限",
+      "excess": 3.356
+    },
+    {
+      "date": "2026-11-16",
+      "claims": {
+        "X1": 39.691
+      },
+      "claim_total": 39.691,
+      "master_saving": 67.315,
+      "joint": "一致",
+      "status": "上限内",
+      "excess": null
+    },
+    {
+      "date": "2026-11-17",
+      "claims": {},
+      "claim_total": 0,
+      "master_saving": 19.183,
+      "joint": "分表缺测，联合核对不完整",
+      "status": "联合核对不可用，分表独立证据",
+      "excess": null
+    },
+    {
+      "date": "2026-11-18",
+      "claims": {
+        "X1": 25.529
+      },
+      "claim_total": 25.529,
+      "master_saving": 78.895,
+      "joint": "分表缺测，联合核对不完整",
+      "status": "联合核对不可用，分表独立证据",
+      "excess": null
+    }
+  ],
+  "signoffs": [
+    {
+      "contract": "X1",
+      "status": "待审",
+      "signed_at": null,
+      "basis_date": "2026-11-13",
+      "basis_coverage": 0.6666666666666666,
+      "basis_saving_kwh": 30.201
+    },
+    {
+      "contract": "X2",
+      "status": "已确认",
+      "signed_at": "2026-11-14",
+      "basis_date": "2026-11-13",
+      "basis_coverage": 0.7142857142857143,
+      "basis_saving_kwh": 120.342
+    }
+  ],
+  "corrections": [
+    {
+      "recorded": "2026-11-15",
+      "meter": "M0",
+      "from": "2026-11-10",
+      "until": "2026-11-10",
+      "action": "换算",
+      "factor": 1.09,
+      "in_scope": true
+    },
+    {
+      "recorded": "2026-11-15",
+      "meter": "M0",
+      "from": "2026-11-11",
+      "until": "2026-11-11",
+      "action": "撤销",
+      "factor": null,
+      "in_scope": true
+    },
+    {
+      "recorded": "2026-11-19",
+      "meter": "M0",
+      "from": "2026-11-10",
+      "until": "2026-11-10",
+      "action": "换算",
+      "factor": 0.8,
+      "in_scope": true
+    },
+    {
+      "recorded": "2026-11-20",
+      "meter": "M1",
+      "from": "2026-02-21",
+      "until": "2026-02-25",
+      "action": "撤销",
+      "factor": null,
+      "in_scope": false
+    }
+  ],
+  "post_query_corrections": {
+    "records": [
+      {
+        "meter": "M1",
+        "from": "2026-02-21",
+        "until": "2026-02-25",
+        "action": "撤销",
+        "factor": null,
+        "recorded": "2026-11-20"
+      }
+    ],
+    "holdout_mae_if_applied": {
+      "活动室": 2.264961074314101,
+      "托育点": 8.072875141718136
+    }
+  }
+}
