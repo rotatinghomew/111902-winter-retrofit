@@ -43,6 +43,7 @@
       "int"
     ],
     "nursery_min_c": [
+      "NoneType",
       "int"
     ]
   },
@@ -105,6 +106,15 @@
     ],
     "min_coverage": [
       "float"
+    ],
+    "max_holdout_mae_kwh": [
+      "int"
+    ],
+    "meter_tolerance_kwh": [
+      "int"
+    ],
+    "rate_yuan_per_kwh": [
+      "float"
     ]
   },
   "signoffs": {
@@ -122,6 +132,23 @@
       "str"
     ],
     "status": [
+      "str"
+    ]
+  },
+  "calendar": {
+    "date": [
+      "str"
+    ],
+    "purpose": [
+      "str"
+    ],
+    "scheduled_hours": [
+      "int"
+    ],
+    "observed_hours": [
+      "int"
+    ],
+    "state": [
       "str"
     ]
   }

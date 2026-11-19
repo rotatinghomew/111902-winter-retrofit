@@ -46,6 +46,291 @@
         "split": "留出"
       },
       {
+        "date": "2026-01-14",
+        "degree_days": 32,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-15",
+        "degree_days": 32,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-16",
+        "degree_days": 24,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-17",
+        "degree_days": 24,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-18",
+        "degree_days": 26,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-19",
+        "degree_days": 24,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-20",
+        "degree_days": 29,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-21",
+        "degree_days": 32,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-22",
+        "degree_days": 20,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-23",
+        "degree_days": 21,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-24",
+        "degree_days": 32,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-25",
+        "degree_days": 24,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-26",
+        "degree_days": 25,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-27",
+        "degree_days": 26,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-28",
+        "degree_days": 27,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-29",
+        "degree_days": 23,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-30",
+        "degree_days": 30,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-01-31",
+        "degree_days": 32,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-01",
+        "degree_days": 20,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-02",
+        "degree_days": 28,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-03",
+        "degree_days": 29,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-04",
+        "degree_days": 28,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-05",
+        "degree_days": 31,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-06",
+        "degree_days": 23,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-07",
+        "degree_days": 30,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-08",
+        "degree_days": 31,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-09",
+        "degree_days": 23,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-10",
+        "degree_days": 28,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-11",
+        "degree_days": 26,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-12",
+        "degree_days": 28,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-13",
+        "degree_days": 22,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-14",
+        "degree_days": 20,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-15",
+        "degree_days": 32,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-16",
+        "degree_days": 22,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-17",
+        "degree_days": 21,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-18",
+        "degree_days": 32,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-19",
+        "degree_days": 22,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-20",
+        "degree_days": 31,
+        "split": "拟合"
+      },
+      {
+        "date": "2026-02-21",
+        "degree_days": 20,
+        "split": "留出"
+      },
+      {
+        "date": "2026-02-22",
+        "degree_days": 32,
+        "split": "留出"
+      },
+      {
+        "date": "2026-02-23",
+        "degree_days": 28,
+        "split": "留出"
+      },
+      {
+        "date": "2026-02-24",
+        "degree_days": 27,
+        "split": "留出"
+      },
+      {
+        "date": "2026-02-25",
+        "degree_days": 30,
+        "split": "留出"
+      },
+      {
+        "date": "2026-02-26",
+        "degree_days": 24,
+        "split": "留出"
+      },
+      {
+        "date": "2026-02-27",
+        "degree_days": 28,
+        "split": "留出"
+      },
+      {
+        "date": "2026-02-28",
+        "degree_days": 26,
+        "split": "留出"
+      },
+      {
+        "date": "2026-03-01",
+        "degree_days": 30,
+        "split": "留出"
+      },
+      {
+        "date": "2026-03-02",
+        "degree_days": 23,
+        "split": "留出"
+      },
+      {
+        "date": "2026-11-01",
+        "degree_days": 21,
+        "split": "分步投用"
+      },
+      {
+        "date": "2026-11-02",
+        "degree_days": 27,
+        "split": "分步投用"
+      },
+      {
+        "date": "2026-11-03",
+        "degree_days": 21,
+        "split": "分步投用"
+      },
+      {
+        "date": "2026-11-04",
+        "degree_days": 28,
+        "split": "分步投用"
+      },
+      {
+        "date": "2026-11-05",
+        "degree_days": 24,
+        "split": "分步投用"
+      },
+      {
+        "date": "2026-11-06",
+        "degree_days": 30,
+        "split": "分步投用"
+      },
+      {
+        "date": "2026-11-07",
+        "degree_days": 32,
+        "split": "分步投用"
+      },
+      {
+        "date": "2026-11-08",
+        "degree_days": 31,
+        "split": "改造后"
+      },
+      {
+        "date": "2026-11-09",
+        "degree_days": 27,
+        "split": "改造后"
+      },
+      {
         "date": "2026-11-10",
         "degree_days": 25,
         "split": "改造后"
@@ -58,6 +343,56 @@
       {
         "date": "2026-11-12",
         "degree_days": 40,
+        "split": "改造后"
+      },
+      {
+        "date": "2026-11-13",
+        "degree_days": 25,
+        "split": "改造后"
+      },
+      {
+        "date": "2026-11-14",
+        "degree_days": 32,
+        "split": "改造后"
+      },
+      {
+        "date": "2026-11-15",
+        "degree_days": 28,
+        "split": "改造后"
+      },
+      {
+        "date": "2026-11-16",
+        "degree_days": 23,
+        "split": "改造后"
+      },
+      {
+        "date": "2026-11-17",
+        "degree_days": 30,
+        "split": "改造后"
+      },
+      {
+        "date": "2026-11-18",
+        "degree_days": 25,
+        "split": "改造后"
+      },
+      {
+        "date": "2026-11-19",
+        "degree_days": 32,
+        "split": "改造后"
+      },
+      {
+        "date": "2026-11-20",
+        "degree_days": 23,
+        "split": "改造后"
+      },
+      {
+        "date": "2026-11-21",
+        "degree_days": 26,
+        "split": "改造后"
+      },
+      {
+        "date": "2026-11-22",
+        "degree_days": 31,
         "split": "改造后"
       }
     ],
@@ -91,6 +426,405 @@
         "nursery_min_c": 21
       },
       {
+        "date": "2026-01-14",
+        "activity_hours": 8,
+        "nursery_hours": 7,
+        "activity_min_c": null,
+        "nursery_min_c": 22
+      },
+      {
+        "date": "2026-01-15",
+        "activity_hours": 6,
+        "nursery_hours": 7,
+        "activity_min_c": 19,
+        "nursery_min_c": 22
+      },
+      {
+        "date": "2026-01-16",
+        "activity_hours": 9,
+        "nursery_hours": 7,
+        "activity_min_c": 21,
+        "nursery_min_c": 21
+      },
+      {
+        "date": "2026-01-17",
+        "activity_hours": 8,
+        "nursery_hours": 8,
+        "activity_min_c": null,
+        "nursery_min_c": 21
+      },
+      {
+        "date": "2026-01-18",
+        "activity_hours": 0,
+        "nursery_hours": 9,
+        "activity_min_c": null,
+        "nursery_min_c": 21
+      },
+      {
+        "date": "2026-01-19",
+        "activity_hours": 6,
+        "nursery_hours": 8,
+        "activity_min_c": 20,
+        "nursery_min_c": 20
+      },
+      {
+        "date": "2026-01-20",
+        "activity_hours": 6,
+        "nursery_hours": 9,
+        "activity_min_c": 20,
+        "nursery_min_c": 19
+      },
+      {
+        "date": "2026-01-21",
+        "activity_hours": 9,
+        "nursery_hours": 8,
+        "activity_min_c": 20,
+        "nursery_min_c": 20
+      },
+      {
+        "date": "2026-01-22",
+        "activity_hours": 8,
+        "nursery_hours": 9,
+        "activity_min_c": 21,
+        "nursery_min_c": 20
+      },
+      {
+        "date": "2026-01-23",
+        "activity_hours": 8,
+        "nursery_hours": 7,
+        "activity_min_c": 21,
+        "nursery_min_c": 20
+      },
+      {
+        "date": "2026-01-24",
+        "activity_hours": 7,
+        "nursery_hours": 7,
+        "activity_min_c": null,
+        "nursery_min_c": null
+      },
+      {
+        "date": "2026-01-25",
+        "activity_hours": 9,
+        "nursery_hours": 7,
+        "activity_min_c": null,
+        "nursery_min_c": null
+      },
+      {
+        "date": "2026-01-26",
+        "activity_hours": 9,
+        "nursery_hours": 8,
+        "activity_min_c": 21,
+        "nursery_min_c": 20
+      },
+      {
+        "date": "2026-01-27",
+        "activity_hours": 0,
+        "nursery_hours": 7,
+        "activity_min_c": null,
+        "nursery_min_c": 19
+      },
+      {
+        "date": "2026-01-28",
+        "activity_hours": 8,
+        "nursery_hours": 9,
+        "activity_min_c": null,
+        "nursery_min_c": 20
+      },
+      {
+        "date": "2026-01-29",
+        "activity_hours": 7,
+        "nursery_hours": 7,
+        "activity_min_c": 20,
+        "nursery_min_c": 21
+      },
+      {
+        "date": "2026-01-30",
+        "activity_hours": 7,
+        "nursery_hours": 9,
+        "activity_min_c": null,
+        "nursery_min_c": 19
+      },
+      {
+        "date": "2026-01-31",
+        "activity_hours": 8,
+        "nursery_hours": 7,
+        "activity_min_c": 20,
+        "nursery_min_c": 19
+      },
+      {
+        "date": "2026-02-01",
+        "activity_hours": 7,
+        "nursery_hours": 9,
+        "activity_min_c": 19,
+        "nursery_min_c": 20
+      },
+      {
+        "date": "2026-02-02",
+        "activity_hours": 8,
+        "nursery_hours": 8,
+        "activity_min_c": null,
+        "nursery_min_c": 20
+      },
+      {
+        "date": "2026-02-03",
+        "activity_hours": 0,
+        "nursery_hours": 7,
+        "activity_min_c": null,
+        "nursery_min_c": 22
+      },
+      {
+        "date": "2026-02-04",
+        "activity_hours": 6,
+        "nursery_hours": 7,
+        "activity_min_c": 20,
+        "nursery_min_c": 20
+      },
+      {
+        "date": "2026-02-05",
+        "activity_hours": 7,
+        "nursery_hours": 7,
+        "activity_min_c": 21,
+        "nursery_min_c": null
+      },
+      {
+        "date": "2026-02-06",
+        "activity_hours": 6,
+        "nursery_hours": 8,
+        "activity_min_c": 20,
+        "nursery_min_c": null
+      },
+      {
+        "date": "2026-02-07",
+        "activity_hours": 7,
+        "nursery_hours": 7,
+        "activity_min_c": null,
+        "nursery_min_c": 19
+      },
+      {
+        "date": "2026-02-08",
+        "activity_hours": 0,
+        "nursery_hours": 7,
+        "activity_min_c": null,
+        "nursery_min_c": 21
+      },
+      {
+        "date": "2026-02-09",
+        "activity_hours": 6,
+        "nursery_hours": 9,
+        "activity_min_c": 20,
+        "nursery_min_c": 22
+      },
+      {
+        "date": "2026-02-10",
+        "activity_hours": 6,
+        "nursery_hours": 8,
+        "activity_min_c": null,
+        "nursery_min_c": 21
+      },
+      {
+        "date": "2026-02-11",
+        "activity_hours": 0,
+        "nursery_hours": 9,
+        "activity_min_c": null,
+        "nursery_min_c": null
+      },
+      {
+        "date": "2026-02-12",
+        "activity_hours": 0,
+        "nursery_hours": 9,
+        "activity_min_c": null,
+        "nursery_min_c": 20
+      },
+      {
+        "date": "2026-02-13",
+        "activity_hours": 8,
+        "nursery_hours": 9,
+        "activity_min_c": 19,
+        "nursery_min_c": 19
+      },
+      {
+        "date": "2026-02-14",
+        "activity_hours": 7,
+        "nursery_hours": 9,
+        "activity_min_c": null,
+        "nursery_min_c": 19
+      },
+      {
+        "date": "2026-02-15",
+        "activity_hours": 7,
+        "nursery_hours": 9,
+        "activity_min_c": null,
+        "nursery_min_c": null
+      },
+      {
+        "date": "2026-02-16",
+        "activity_hours": 9,
+        "nursery_hours": 9,
+        "activity_min_c": 19,
+        "nursery_min_c": 21
+      },
+      {
+        "date": "2026-02-17",
+        "activity_hours": 7,
+        "nursery_hours": 8,
+        "activity_min_c": 21,
+        "nursery_min_c": 21
+      },
+      {
+        "date": "2026-02-18",
+        "activity_hours": 8,
+        "nursery_hours": 9,
+        "activity_min_c": 21,
+        "nursery_min_c": 19
+      },
+      {
+        "date": "2026-02-19",
+        "activity_hours": 6,
+        "nursery_hours": 8,
+        "activity_min_c": 19,
+        "nursery_min_c": 22
+      },
+      {
+        "date": "2026-02-20",
+        "activity_hours": 6,
+        "nursery_hours": 8,
+        "activity_min_c": null,
+        "nursery_min_c": null
+      },
+      {
+        "date": "2026-02-21",
+        "activity_hours": 6,
+        "nursery_hours": 9,
+        "activity_min_c": 20,
+        "nursery_min_c": 21
+      },
+      {
+        "date": "2026-02-22",
+        "activity_hours": 8,
+        "nursery_hours": 9,
+        "activity_min_c": null,
+        "nursery_min_c": 20
+      },
+      {
+        "date": "2026-02-23",
+        "activity_hours": 6,
+        "nursery_hours": 7,
+        "activity_min_c": 19,
+        "nursery_min_c": 22
+      },
+      {
+        "date": "2026-02-24",
+        "activity_hours": 8,
+        "nursery_hours": 9,
+        "activity_min_c": 19,
+        "nursery_min_c": 22
+      },
+      {
+        "date": "2026-02-25",
+        "activity_hours": 6,
+        "nursery_hours": 9,
+        "activity_min_c": 21,
+        "nursery_min_c": 19
+      },
+      {
+        "date": "2026-02-26",
+        "activity_hours": 8,
+        "nursery_hours": 8,
+        "activity_min_c": 19,
+        "nursery_min_c": 19
+      },
+      {
+        "date": "2026-02-27",
+        "activity_hours": 6,
+        "nursery_hours": 8,
+        "activity_min_c": null,
+        "nursery_min_c": 19
+      },
+      {
+        "date": "2026-02-28",
+        "activity_hours": 6,
+        "nursery_hours": 8,
+        "activity_min_c": 20,
+        "nursery_min_c": 21
+      },
+      {
+        "date": "2026-03-01",
+        "activity_hours": 9,
+        "nursery_hours": 7,
+        "activity_min_c": null,
+        "nursery_min_c": 22
+      },
+      {
+        "date": "2026-03-02",
+        "activity_hours": 6,
+        "nursery_hours": 9,
+        "activity_min_c": 19,
+        "nursery_min_c": null
+      },
+      {
+        "date": "2026-11-01",
+        "activity_hours": 0,
+        "nursery_hours": 9,
+        "activity_min_c": null,
+        "nursery_min_c": 20
+      },
+      {
+        "date": "2026-11-02",
+        "activity_hours": 9,
+        "nursery_hours": 7,
+        "activity_min_c": 20,
+        "nursery_min_c": 19
+      },
+      {
+        "date": "2026-11-03",
+        "activity_hours": 7,
+        "nursery_hours": 8,
+        "activity_min_c": null,
+        "nursery_min_c": 22
+      },
+      {
+        "date": "2026-11-04",
+        "activity_hours": 6,
+        "nursery_hours": 7,
+        "activity_min_c": 19,
+        "nursery_min_c": 19
+      },
+      {
+        "date": "2026-11-05",
+        "activity_hours": 7,
+        "nursery_hours": 8,
+        "activity_min_c": 21,
+        "nursery_min_c": null
+      },
+      {
+        "date": "2026-11-06",
+        "activity_hours": 0,
+        "nursery_hours": 8,
+        "activity_min_c": null,
+        "nursery_min_c": 20
+      },
+      {
+        "date": "2026-11-07",
+        "activity_hours": 9,
+        "nursery_hours": 9,
+        "activity_min_c": null,
+        "nursery_min_c": 22
+      },
+      {
+        "date": "2026-11-08",
+        "activity_hours": 7,
+        "nursery_hours": 8,
+        "activity_min_c": null,
+        "nursery_min_c": 22
+      },
+      {
+        "date": "2026-11-09",
+        "activity_hours": 9,
+        "nursery_hours": 7,
+        "activity_min_c": null,
+        "nursery_min_c": 22
+      },
+      {
         "date": "2026-11-10",
         "activity_hours": 7,
         "nursery_hours": 8,
@@ -110,6 +844,76 @@
         "nursery_hours": 8,
         "activity_min_c": 17,
         "nursery_min_c": 18
+      },
+      {
+        "date": "2026-11-13",
+        "activity_hours": 6,
+        "nursery_hours": 8,
+        "activity_min_c": 20,
+        "nursery_min_c": 20
+      },
+      {
+        "date": "2026-11-14",
+        "activity_hours": 7,
+        "nursery_hours": 7,
+        "activity_min_c": 20,
+        "nursery_min_c": 22
+      },
+      {
+        "date": "2026-11-15",
+        "activity_hours": 6,
+        "nursery_hours": 7,
+        "activity_min_c": 21,
+        "nursery_min_c": 20
+      },
+      {
+        "date": "2026-11-16",
+        "activity_hours": 7,
+        "nursery_hours": 8,
+        "activity_min_c": 21,
+        "nursery_min_c": null
+      },
+      {
+        "date": "2026-11-17",
+        "activity_hours": 0,
+        "nursery_hours": 7,
+        "activity_min_c": null,
+        "nursery_min_c": 21
+      },
+      {
+        "date": "2026-11-18",
+        "activity_hours": 9,
+        "nursery_hours": 7,
+        "activity_min_c": 19,
+        "nursery_min_c": null
+      },
+      {
+        "date": "2026-11-19",
+        "activity_hours": 8,
+        "nursery_hours": 7,
+        "activity_min_c": 19,
+        "nursery_min_c": 19
+      },
+      {
+        "date": "2026-11-20",
+        "activity_hours": 8,
+        "nursery_hours": 9,
+        "activity_min_c": 20,
+        "nursery_min_c": 21
+      },
+      {
+        "date": "2026-11-21",
+        "activity_hours": 9,
+        "nursery_hours": 8,
+        "activity_min_c": null,
+        "nursery_min_c": 21
+      },
+      {
+        "date": "2026-11-22",
+        "activity_hours": 6,
+        "nursery_hours": 7,
+        "activity_min_c": null,
+        "nursery_min_c": 20
       }
     ],
     "readings": [
@@ -162,6 +966,852 @@
         "state": "有效"
       },
       {
+        "date": "2026-01-14",
+        "meter": "M0",
+        "reading": 598,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-14",
+        "meter": "M1",
+        "reading": 268,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-14",
+        "meter": "M2",
+        "reading": 309,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-15",
+        "meter": "M0",
+        "reading": 570,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-15",
+        "meter": "M1",
+        "reading": 244,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-15",
+        "meter": "M2",
+        "reading": 310,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-16",
+        "meter": "M0",
+        "reading": 511,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-16",
+        "meter": "M1",
+        "reading": 226,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-17",
+        "meter": "M0",
+        "reading": 511,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-18",
+        "meter": "M0",
+        "reading": 453,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-18",
+        "meter": "M2",
+        "reading": 281,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-19",
+        "meter": "M0",
+        "reading": 491,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-19",
+        "meter": "M1",
+        "reading": 191,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-19",
+        "meter": "M2",
+        "reading": 275,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-20",
+        "meter": "M0",
+        "reading": 547,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-20",
+        "meter": "M1",
+        "reading": 224,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-20",
+        "meter": "M2",
+        "reading": 309,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-21",
+        "meter": "M0",
+        "reading": 607,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-21",
+        "meter": "M1",
+        "reading": 270,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-21",
+        "meter": "M2",
+        "reading": 313,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-22",
+        "meter": "M0",
+        "reading": 493,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-22",
+        "meter": "M1",
+        "reading": 205,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-22",
+        "meter": "M2",
+        "reading": 263,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-23",
+        "meter": "M0",
+        "reading": 457,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-23",
+        "meter": "M1",
+        "reading": 214,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-24",
+        "meter": "M0",
+        "reading": 569,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-24",
+        "meter": "M1",
+        "reading": 249,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-25",
+        "meter": "M0",
+        "reading": 505,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-25",
+        "meter": "M2",
+        "reading": 240,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-26",
+        "meter": "M0",
+        "reading": 541,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-26",
+        "meter": "M2",
+        "reading": 271,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-27",
+        "meter": "M0",
+        "reading": 428,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-27",
+        "meter": "M1",
+        "reading": 150,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-27",
+        "meter": "M2",
+        "reading": 264,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-28",
+        "meter": "M0",
+        "reading": 556,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-28",
+        "meter": "M1",
+        "reading": 237,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-28",
+        "meter": "M2",
+        "reading": 296,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-29",
+        "meter": "M0",
+        "reading": 483,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-29",
+        "meter": "M1",
+        "reading": 213,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-29",
+        "meter": "M2",
+        "reading": 241,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-30",
+        "meter": "M0",
+        "reading": 558,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-30",
+        "meter": "M1",
+        "reading": 234,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-31",
+        "meter": "M0",
+        "reading": 584,
+        "state": "有效"
+      },
+      {
+        "date": "2026-01-31",
+        "meter": "M1",
+        "reading": 269,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-01",
+        "meter": "M0",
+        "reading": 464,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-01",
+        "meter": "M1",
+        "reading": 193,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-01",
+        "meter": "M2",
+        "reading": 253,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-02",
+        "meter": "M0",
+        "reading": 530,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-02",
+        "meter": "M2",
+        "reading": 279,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-03",
+        "meter": "M0",
+        "reading": 471,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-03",
+        "meter": "M2",
+        "reading": 288,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-04",
+        "meter": "M0",
+        "reading": 520,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-04",
+        "meter": "M1",
+        "reading": 211,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-04",
+        "meter": "M2",
+        "reading": 285,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-05",
+        "meter": "M0",
+        "reading": 556,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-05",
+        "meter": "M1",
+        "reading": 243,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-05",
+        "meter": "M2",
+        "reading": 297,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-06",
+        "meter": "M0",
+        "reading": 477,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-06",
+        "meter": "M1",
+        "reading": 190,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-07",
+        "meter": "M0",
+        "reading": 558,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-07",
+        "meter": "M1",
+        "reading": 231,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-08",
+        "meter": "M0",
+        "reading": 492,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-08",
+        "meter": "M1",
+        "reading": 171,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-08",
+        "meter": "M2",
+        "reading": 297,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-09",
+        "meter": "M0",
+        "reading": 479,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-09",
+        "meter": "M1",
+        "reading": 195,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-09",
+        "meter": "M2",
+        "reading": 268,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-10",
+        "meter": "M0",
+        "reading": 508,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-10",
+        "meter": "M2",
+        "reading": 279,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-11",
+        "meter": "M0",
+        "reading": 451,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-11",
+        "meter": "M2",
+        "reading": 286,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-12",
+        "meter": "M0",
+        "reading": 451,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-12",
+        "meter": "M1",
+        "reading": 143,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-12",
+        "meter": "M2",
+        "reading": 292,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-13",
+        "meter": "M0",
+        "reading": 503,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-13",
+        "meter": "M1",
+        "reading": 205,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-14",
+        "meter": "M0",
+        "reading": 457,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-14",
+        "meter": "M1",
+        "reading": 184,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-15",
+        "meter": "M0",
+        "reading": 595,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-15",
+        "meter": "M1",
+        "reading": 249,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-15",
+        "meter": "M2",
+        "reading": 321,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-16",
+        "meter": "M0",
+        "reading": 489,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-16",
+        "meter": "M1",
+        "reading": 212,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-16",
+        "meter": "M2",
+        "reading": 263,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-17",
+        "meter": "M0",
+        "reading": 465,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-17",
+        "meter": "M1",
+        "reading": 185,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-17",
+        "meter": "M2",
+        "reading": 249,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-18",
+        "meter": "M0",
+        "reading": 602,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-18",
+        "meter": "M2",
+        "reading": 315,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-19",
+        "meter": "M0",
+        "reading": 459,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-19",
+        "meter": "M2",
+        "reading": 243,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-20",
+        "meter": "M0",
+        "reading": 563,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-20",
+        "meter": "M1",
+        "reading": 237,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-21",
+        "meter": "M0",
+        "reading": 440,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-21",
+        "meter": "M1",
+        "reading": 172,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-21",
+        "meter": "M2",
+        "reading": 243,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-22",
+        "meter": "M0",
+        "reading": 608,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-22",
+        "meter": "M1",
+        "reading": 256,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-22",
+        "meter": "M2",
+        "reading": 324,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-23",
+        "meter": "M0",
+        "reading": 507,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-23",
+        "meter": "M1",
+        "reading": 218,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-24",
+        "meter": "M0",
+        "reading": 555,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-25",
+        "meter": "M0",
+        "reading": 569,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-25",
+        "meter": "M2",
+        "reading": 322,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-26",
+        "meter": "M0",
+        "reading": 521,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-26",
+        "meter": "M1",
+        "reading": 217,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-26",
+        "meter": "M2",
+        "reading": 275,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-27",
+        "meter": "M0",
+        "reading": 544,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-27",
+        "meter": "M1",
+        "reading": 221,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-27",
+        "meter": "M2",
+        "reading": 296,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-28",
+        "meter": "M0",
+        "reading": 518,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-28",
+        "meter": "M1",
+        "reading": 207,
+        "state": "有效"
+      },
+      {
+        "date": "2026-02-28",
+        "meter": "M2",
+        "reading": 286,
+        "state": "有效"
+      },
+      {
+        "date": "2026-03-01",
+        "meter": "M0",
+        "reading": 569,
+        "state": "有效"
+      },
+      {
+        "date": "2026-03-01",
+        "meter": "M1",
+        "reading": 267,
+        "state": "有效"
+      },
+      {
+        "date": "2026-03-01",
+        "meter": "M2",
+        "reading": 281,
+        "state": "有效"
+      },
+      {
+        "date": "2026-03-02",
+        "meter": "M0",
+        "reading": 477,
+        "state": "有效"
+      },
+      {
+        "date": "2026-03-02",
+        "meter": "M1",
+        "reading": 192,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-01",
+        "meter": "M0",
+        "reading": 369,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-01",
+        "meter": "M1",
+        "reading": 111,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-01",
+        "meter": "M2",
+        "reading": 239,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-02",
+        "meter": "M0",
+        "reading": 509,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-02",
+        "meter": "M1",
+        "reading": 251,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-02",
+        "meter": "M2",
+        "reading": 232,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-03",
+        "meter": "M0",
+        "reading": 432,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-03",
+        "meter": "M1",
+        "reading": 200,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-04",
+        "meter": "M0",
+        "reading": 479,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-05",
+        "meter": "M0",
+        "reading": 446,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-05",
+        "meter": "M2",
+        "reading": 224,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-06",
+        "meter": "M0",
+        "reading": 442,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-06",
+        "meter": "M1",
+        "reading": 153,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-06",
+        "meter": "M2",
+        "reading": 265,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-07",
+        "meter": "M0",
+        "reading": 613,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-07",
+        "meter": "M1",
+        "reading": 274,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-07",
+        "meter": "M2",
+        "reading": 311,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-08",
+        "meter": "M0",
+        "reading": 506,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-08",
+        "meter": "M1",
+        "reading": 200,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-08",
+        "meter": "M2",
+        "reading": 283,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-09",
+        "meter": "M0",
+        "reading": 473,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-09",
+        "meter": "M1",
+        "reading": 209,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-09",
+        "meter": "M2",
+        "reading": 242,
+        "state": "有效"
+      },
+      {
         "date": "2026-11-10",
         "meter": "M0",
         "reading": 440,
@@ -190,6 +1840,162 @@
         "meter": "M0",
         "reading": 760,
         "state": "有效"
+      },
+      {
+        "date": "2026-11-13",
+        "meter": "M0",
+        "reading": 407,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-13",
+        "meter": "M1",
+        "reading": 158,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-13",
+        "meter": "M2",
+        "reading": 229,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-14",
+        "meter": "M0",
+        "reading": 511,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-14",
+        "meter": "M1",
+        "reading": 214,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-14",
+        "meter": "M2",
+        "reading": 267,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-15",
+        "meter": "M0",
+        "reading": 438,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-15",
+        "meter": "M1",
+        "reading": 178,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-15",
+        "meter": "M2",
+        "reading": 232,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-16",
+        "meter": "M0",
+        "reading": 420,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-16",
+        "meter": "M1",
+        "reading": 165,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-16",
+        "meter": "M2",
+        "reading": 232,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-17",
+        "meter": "M0",
+        "reading": 455,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-17",
+        "meter": "M1",
+        "reading": 168,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-18",
+        "meter": "M0",
+        "reading": 445,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-18",
+        "meter": "M1",
+        "reading": 213,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-19",
+        "meter": "M0",
+        "reading": 521,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-19",
+        "meter": "M2",
+        "reading": 270,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-20",
+        "meter": "M0",
+        "reading": 438,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-20",
+        "meter": "M2",
+        "reading": 241,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-21",
+        "meter": "M0",
+        "reading": 465,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-21",
+        "meter": "M1",
+        "reading": 207,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-21",
+        "meter": "M2",
+        "reading": 236,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-22",
+        "meter": "M0",
+        "reading": 498,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-22",
+        "meter": "M1",
+        "reading": 203,
+        "state": "有效"
+      },
+      {
+        "date": "2026-11-22",
+        "meter": "M2",
+        "reading": 271,
+        "state": "有效"
       }
     ],
     "maintenance": [
@@ -208,13 +2014,29 @@
         "action": "撤销",
         "factor": null,
         "recorded": "2026-11-15"
+      },
+      {
+        "meter": "M0",
+        "from": "2026-11-10",
+        "until": "2026-11-10",
+        "action": "换算",
+        "factor": 0.8,
+        "recorded": "2026-11-19"
+      },
+      {
+        "meter": "M1",
+        "from": "2026-02-21",
+        "until": "2026-02-25",
+        "action": "撤销",
+        "factor": null,
+        "recorded": "2026-11-20"
       }
     ],
     "protocol": [
       {
         "contract": "X1",
         "purpose": "活动室",
-        "effective": "2026-11-01",
+        "effective": "2026-11-08",
         "degree_days_range": [
           22,
           30
@@ -225,7 +2047,10 @@
         ],
         "min_saving": 25,
         "min_temp": 19,
-        "min_coverage": 0.66
+        "min_coverage": 0.66,
+        "max_holdout_mae_kwh": 24,
+        "meter_tolerance_kwh": 8,
+        "rate_yuan_per_kwh": 1.6
       },
       {
         "contract": "X2",
@@ -241,7 +2066,10 @@
         ],
         "min_saving": 32,
         "min_temp": 20,
-        "min_coverage": 0.66
+        "min_coverage": 0.66,
+        "max_holdout_mae_kwh": 24,
+        "meter_tolerance_kwh": 8,
+        "rate_yuan_per_kwh": 1.45
       }
     ],
     "signoffs": [
@@ -258,6 +2086,1044 @@
         "signed_at": "2026-11-14",
         "basis_date": "2026-11-13",
         "status": "已确认"
+      }
+    ],
+    "calendar": [
+      {
+        "date": "2026-01-10",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-10",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-11",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-11",
+        "purpose": "活动室",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-12",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-12",
+        "purpose": "活动室",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-13",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-13",
+        "purpose": "活动室",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-14",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-14",
+        "purpose": "活动室",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-15",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-15",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-16",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-16",
+        "purpose": "活动室",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-17",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-17",
+        "purpose": "活动室",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-18",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-18",
+        "purpose": "活动室",
+        "scheduled_hours": 0,
+        "observed_hours": 0,
+        "state": "计划停用"
+      },
+      {
+        "date": "2026-01-19",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-19",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-20",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-20",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-21",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-21",
+        "purpose": "活动室",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-22",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-22",
+        "purpose": "活动室",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-23",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-23",
+        "purpose": "活动室",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-24",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-24",
+        "purpose": "活动室",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-25",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-25",
+        "purpose": "活动室",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-26",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-26",
+        "purpose": "活动室",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-27",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-27",
+        "purpose": "活动室",
+        "scheduled_hours": 0,
+        "observed_hours": 0,
+        "state": "计划停用"
+      },
+      {
+        "date": "2026-01-28",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-28",
+        "purpose": "活动室",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-29",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-29",
+        "purpose": "活动室",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-30",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-30",
+        "purpose": "活动室",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-31",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-01-31",
+        "purpose": "活动室",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-01",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-01",
+        "purpose": "活动室",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-02",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-02",
+        "purpose": "活动室",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-03",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-03",
+        "purpose": "活动室",
+        "scheduled_hours": 0,
+        "observed_hours": 0,
+        "state": "计划停用"
+      },
+      {
+        "date": "2026-02-04",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-04",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-05",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-05",
+        "purpose": "活动室",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-06",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-06",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-07",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-07",
+        "purpose": "活动室",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-08",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-08",
+        "purpose": "活动室",
+        "scheduled_hours": 0,
+        "observed_hours": 0,
+        "state": "计划停用"
+      },
+      {
+        "date": "2026-02-09",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-09",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-10",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-10",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-11",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-11",
+        "purpose": "活动室",
+        "scheduled_hours": 0,
+        "observed_hours": 0,
+        "state": "计划停用"
+      },
+      {
+        "date": "2026-02-12",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-12",
+        "purpose": "活动室",
+        "scheduled_hours": 0,
+        "observed_hours": 0,
+        "state": "计划停用"
+      },
+      {
+        "date": "2026-02-13",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-13",
+        "purpose": "活动室",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-14",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-14",
+        "purpose": "活动室",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-15",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-15",
+        "purpose": "活动室",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-16",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-16",
+        "purpose": "活动室",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-17",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-17",
+        "purpose": "活动室",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-18",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-18",
+        "purpose": "活动室",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-19",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-19",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-20",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-20",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-21",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-21",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-22",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-22",
+        "purpose": "活动室",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-23",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-23",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-24",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-24",
+        "purpose": "活动室",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-25",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-25",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-26",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-26",
+        "purpose": "活动室",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-27",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-27",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-28",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-02-28",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-03-01",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-03-01",
+        "purpose": "活动室",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-03-02",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-03-02",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-01",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-01",
+        "purpose": "活动室",
+        "scheduled_hours": 0,
+        "observed_hours": 0,
+        "state": "计划停用"
+      },
+      {
+        "date": "2026-11-02",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-02",
+        "purpose": "活动室",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-03",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-03",
+        "purpose": "活动室",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-04",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-04",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-05",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-05",
+        "purpose": "活动室",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-06",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-06",
+        "purpose": "活动室",
+        "scheduled_hours": 0,
+        "observed_hours": 0,
+        "state": "计划停用"
+      },
+      {
+        "date": "2026-11-07",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-07",
+        "purpose": "活动室",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-08",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-08",
+        "purpose": "活动室",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-09",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-09",
+        "purpose": "活动室",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-10",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-10",
+        "purpose": "活动室",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-11",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-11",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 0,
+        "state": "临时停用"
+      },
+      {
+        "date": "2026-11-12",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-12",
+        "purpose": "活动室",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-13",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-13",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-14",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-14",
+        "purpose": "活动室",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-15",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-15",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-16",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-16",
+        "purpose": "活动室",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-17",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-17",
+        "purpose": "活动室",
+        "scheduled_hours": 0,
+        "observed_hours": 0,
+        "state": "计划停用"
+      },
+      {
+        "date": "2026-11-18",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-18",
+        "purpose": "活动室",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-19",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-19",
+        "purpose": "活动室",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-20",
+        "purpose": "托育点",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-20",
+        "purpose": "活动室",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-21",
+        "purpose": "托育点",
+        "scheduled_hours": 8,
+        "observed_hours": 8,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-21",
+        "purpose": "活动室",
+        "scheduled_hours": 9,
+        "observed_hours": 9,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-22",
+        "purpose": "托育点",
+        "scheduled_hours": 7,
+        "observed_hours": 7,
+        "state": "开放"
+      },
+      {
+        "date": "2026-11-22",
+        "purpose": "活动室",
+        "scheduled_hours": 6,
+        "observed_hours": 6,
+        "state": "开放"
       }
     ]
   }
